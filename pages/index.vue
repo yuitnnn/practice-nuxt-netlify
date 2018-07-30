@@ -5,13 +5,10 @@
       <h1 class="title">
         practice-nuxt-netlify
       </h1>
-      <h2 class="subtitle">
-        Netlifyテスト 
-      </h2>
-      <h3>デプロイテスト</h3>
+      <h2>🎉🎉🎉初Netlify🎉🎉🎉</h2>
       <div class="links">
-        <nuxt-link to="/" class="button--grey">TOP</nuxt-link>
-        <nuxt-link to="/about" class="button--green">ABOUT</nuxt-link>
+        <nuxt-link to="/" class="button--grey">Top</nuxt-link>
+        <a href="https://twitter.com/yu_webmemo" class="button--green">Twitter</a>
       </div>
     </div>
   </section>
