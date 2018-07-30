@@ -8,6 +8,7 @@
       <h2 class="subtitle">
         Netlifyテスト 
       </h2>
+      <h3>デプロイテスト</h3>
       <div class="links">
         <nuxt-link to="/" class="button--grey">TOP</nuxt-link>
         <nuxt-link to="/about" class="button--green">ABOUT</nuxt-link>
